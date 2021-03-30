@@ -31,7 +31,8 @@ function store() {
         new product("PSM", "Persimmon", "Believe it or not, they are berries!", 6, 120, 4, 3, 0, 1, 3),
         new product("STR", "Strawberry", "Beautiful, healthy, and delicious.", 7, 40, 0, 4, 1, 1, 2),
         new product("TNG", "Tangerine", "Easier to peel than oranges!", 8, 50, 3, 4, 1, 1, 2),
-        new product("WML", "Watermelon", "Nothing comes close on those hot summer days.", 4, 90, 4, 4, 0, 1, 1)
+        new product("WML", "Watermelon", "Nothing comes close on those hot summer days.", 4, 90, 4, 4, 0, 1, 1),
+        new product ("JACK","Jack fruit","Delicious, healthy, beautiful, and sophisticated!", 19, 110, 0, 2, 0, 2, 0)
     ];
     this.dvaCaption = [
         "Negligible",
